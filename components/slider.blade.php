@@ -2,10 +2,9 @@
 @component
 [
     "name"=>"slider",
-    "type"=>"multiple"
+    "type"=>"multiple" 
 ]
 @componentend
-
 @attributes
 [ 
     {   
